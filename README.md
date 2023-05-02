@@ -1,2 +1,7 @@
 # IoT-cyber-attack-analysis
-To use the UNSW-NB15 data set to classify cyber attack. It is an IoT-based dataset that contains network traffic captured by a residential gateway.
+IoT networks have become an increasingly valuable target of malicious attacks due to the increased amount of valuable user data they contain. In response, network intrusion detection systems have been developed to detect suspicious network activity. UNSW-NB15 is an IoT-based network traffic data set with different categories for normal activities and malicious attack behaviors. The role of ML algorithms is for developing a network forensic system based on network flow identifiers and features that can track suspicious activities of botnets is possible. The ML model metrics using the UNSW-NB15 dataset revealed that ML techniques with flow identifiers can effectively and efficiently detect botnet attacks and their tracks. The proposed system can effectively and efficiently detect botnet attacks using flow identifiers and features. The system has the potential for widespread application in protecting IoT networks from malicious attacks and ensuring the security of user data.
+
+Dataset name: UNSW NB15
+UNSW-NB15 is a network traffic dataset that contains various normal and malicious activities. It is an IoT-based dataset that contains network traffic captured by a residential gateway. The dataset is used to train machine learning algorithms to detect botnet attacks and their tracks. The features extracted from the dataset are used to develop a network forensic system based on network flow identifiers, which can effectively and efficiently detect botnet attacks. 
+
+Dataset link: https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15
